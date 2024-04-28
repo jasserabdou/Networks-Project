@@ -1,5 +1,7 @@
 # Networks-Project
+## Read Report !
 
-![Network Image](./img/net.PNG)
-![](./img/Store 1.PNG)
-![](./img/Store 2.PNG)
+![Network Image](./img/net.png)
+![Store 1](./img/Store_1.png)
+![Store 2](./img/Store_2.png)
+
